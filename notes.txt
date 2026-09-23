@@ -1,1 +1,2 @@
 Learned about good commit habits in Lesson 16!
+Lesson 21 in progress: Learning the daily edit-commit-push workflow.s
